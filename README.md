@@ -107,11 +107,6 @@ Beyond Life provides:
 
 ---
 
-## 📸 Screenshots
-(Add your project screenshots here)
-
----
-
 ## 🧑‍💻 Author
 Karthik Ponamala  
 
